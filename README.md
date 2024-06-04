@@ -1,5 +1,5 @@
 # Questions
-
+<hr>
 1) Write a function to find factorial of given number.
 2) Write function to find number of datatype in given list.
 3) Write a python program to seprate string and integer values from given list.
