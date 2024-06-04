@@ -1,4 +1,4 @@
-# Questions
+# <i>Questions
 <hr>
 1) Write a function to find factorial of given number.                            <br>
 2) Write function to find number of datatype in given list.                       <br>
@@ -17,3 +17,4 @@
 6. Write a function to find the common keys in two dictionaries.                  <br>
 7. Use list comprehension to create a new list that contains only the even elements from an existing list  <br>
 8. Write a function to modify a list by doubling the odd numbers and halving the even numbers.   <br>
+</i>
